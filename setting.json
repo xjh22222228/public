@@ -1,0 +1,40 @@
+{
+    "editor.fontSize": 18,
+    "editor.tabSize": 2,
+    "explorer.confirmDelete": false,
+    "extensions.ignoreRecommendations": true,
+    "explorer.compactFolders": false,
+    "editor.wordWrap": "on",
+    "jest.showCoverageOnLoad": true,
+    "javascript.validate.enable": false,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/node_modules": true,
+        "**/.idea": true
+    },
+    "files.associations": {
+        "*.wxss": "css",
+        "*.wxml": "html"
+    },
+    "git.enableSmartCommit": true,
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "wxml": "html",
+        "vue": "html"
+    },
+    "diffEditor.ignoreTrimWhitespace": true,
+    "jest.autoEnable": false,
+    "jest.runAllTestsFirst": false,
+    "debug.onTaskErrors": "abort",
+    "files.autoSave": "onFocusChange",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.autoIndent": "advanced",
+    "workbench.editor.untitled.hint": "hidden",
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true
+}
